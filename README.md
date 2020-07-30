@@ -6,8 +6,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <h3>Hi Guys, My Name is Raian Araujo, and I'm 23 years old.</h3>
   <br>
-  <br>
-  <br>
+
   </a>
 </div>
 
